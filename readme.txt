@@ -1,4 +1,4 @@
-﻿=== Display Text ===
+=== Display Text ===
 Contributors: Prashant
 Donate link: 
 https://www.paypal.com/cgi-bin/webscr?cmd=_cart&business=QV7L5D7S8HEG2&lc=IN&item_name=MagicSpark%20Donate&amount=10%2e00&currency_code=USD&button_subtype=products&add=1&bn=PP%2dShopCartBF%3abtn_cart_LG%2egif%3aNonHosted
@@ -35,4 +35,4 @@ Display Text ([http://magicsparktechnology.com](http://magicsparktechnology.com/
 2. Activate the plugin through the 'Plugins' menu in your WordPress admin panel.
 3. You can adjust necessary settings through your WordPress admin panel in "Settings" > "Display Text".
 4. Create a page or a post or in code, and insert shortcode [display_text_short] to the text.
-5. If you want to display text content display in code then just write <?php echo do_shortcode("[display_text_short]"); ?> in your any file(index.php,header.php,footer.php,any file)
+5. If you want to display text content display in code then just write "echo do_shortcode("[display_text_short]"); "in your any file(index.php,header.php,footer.php,any file)
