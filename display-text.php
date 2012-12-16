@@ -1,12 +1,15 @@
-<?php
+`<?php
     /*
-    Plugin Name: display_text
+    Plugin Name: display-text
+    Plugin URI: http://magicsparktechnology.com/
     Description: Plugin for Dispaly Content like:- text, html code, javascript, adsensecode, etc...
-    Author: prashant
-    Version: 1.0
+    Author: MagicSparkTechnology
+    Version: 1.0.1
+
     */
     /*
     For More Contact :-
+    Mob:- +91 9426250404
     Aurthor Contact
     */
     function display_text_admin_menus() {
